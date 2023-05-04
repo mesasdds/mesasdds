@@ -1,6 +1,6 @@
 <h1 align="center" >Olá! Eu sou o Eduardo Inacio 👋</h1>
 <p align="center">
-💼 Estudante FrontEnd Engineer
+💼 Estudante Desenvolvedor Full-Stack
 ❤️ Amo 🐈 Gatos e café ☕
 </p>
 
