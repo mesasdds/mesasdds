@@ -24,7 +24,7 @@
 </p>
 <h1></h1>
 
-<p align="center" style="font-size:x-large;">Skills🚀</p>
+<h1 align="center" style="font-size:x-large;">Skills🚀</h1>
 <br>
 
 <p align="center">
