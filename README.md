@@ -11,7 +11,6 @@
         <img src= "https://github-readme-stats.vercel.app/api?username=mesasdds&show_icons=true&theme=radical">
     </a>
 </p>
-<br>
 
 
 
@@ -23,16 +22,17 @@
     <img src="https://skillicons.dev/icons?i=github">
   </a>
 </p>
+<h1></h1>
 
+<h2 align="center">Skills🚀</h2>
 <br>
 
-<h1></h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,django,py,selenium,html,css,js,mysql,react" />
   </a>
 </p>
-
+<br>
 
 
 <p align="center">
