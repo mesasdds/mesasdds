@@ -1,10 +1,16 @@
-<p align="center"><h1>Olá! Eu sou o Eduardo Inacio 👋</h1></p>
+<h1 align="center" >Olá! Eu sou o Eduardo Inacio 👋</h1>
+<p align="center">
 💼 Estudante FrontEnd Engineer
 ❤️ Amo 🐈 Gatos e café ☕
+</p>
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesasdds&show_icons=true&theme=radical)
+<p align="center">
+    <a href="https://github.com/mesasdds?tab=repositories">
+        <img src= "https://github-readme-stats.vercel.app/api?username=mesasdds&show_icons=true&theme=radical">
+    </a>
+</p>
 <br>
 
 
